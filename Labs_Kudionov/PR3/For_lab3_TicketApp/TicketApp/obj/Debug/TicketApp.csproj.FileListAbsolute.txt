@@ -1,0 +1,10 @@
+E:\Новая папка\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+E:\Новая папка\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+E:\Новая папка\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.AssemblyReference.cache
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.Form1.resources
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+E:\Новая папка\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
